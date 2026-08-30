@@ -71,3 +71,23 @@ L'API sera disponible sur : `http://localhost:9000`
 
 Le frontend Angular est disponible ici :  
 [Embedded-Systems-Management-Web-Application---Frontend](https://github.com/Zaineb-Hl/Embedded-Systems-Management-Web-Application---Frontend)
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+###
+![Sensors](screenshots/sensors.png)
+
+### Sensor Details
+![Sensor Details](screenshots/sensor-details.png)
+
+### Alerts
+![Alerts](screenshots/alerts.png)
+
+### User Profile
+![User Profile](screenshots/user-profile.png)
